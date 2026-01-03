@@ -156,7 +156,7 @@ function App() {
       <audio 
         ref={audioRef} 
         loop 
-        src="../public/chill.mp3"
+        src="./public/chill.mp3"
       />
 
       {/* Intro Screen */}
